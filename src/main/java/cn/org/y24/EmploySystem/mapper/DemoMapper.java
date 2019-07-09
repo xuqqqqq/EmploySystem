@@ -1,6 +1,6 @@
-package cn.org.y24.EmploySystem.Mapper;
+package cn.org.y24.EmploySystem.mapper;
 
-import cn.org.y24.EmploySystem.Entity.User;
+import cn.org.y24.EmploySystem.entity.User;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 

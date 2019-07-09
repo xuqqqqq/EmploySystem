@@ -1,7 +1,7 @@
-package cn.org.y24.EmploySystem.Service;
+package cn.org.y24.EmploySystem.service;
 
-import cn.org.y24.EmploySystem.Entity.User;
-import cn.org.y24.EmploySystem.Mapper.DemoMapper;
+import cn.org.y24.EmploySystem.entity.User;
+import cn.org.y24.EmploySystem.mapper.DemoMapper;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

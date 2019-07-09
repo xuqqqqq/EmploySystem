@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
-@MapperScan(value = {"cn.org.y24.EmploySystem.Mapper"})
+@MapperScan(value = {"cn.org.y24.EmploySystem.mapper"})
 public class EmploySystemApplication {
 
 	public static void main(String[] args) {

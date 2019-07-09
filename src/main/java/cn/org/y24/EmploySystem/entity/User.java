@@ -1,4 +1,4 @@
-package cn.org.y24.EmploySystem.Entity;
+package cn.org.y24.EmploySystem.entity;
 
 public class User {
     private String id;
